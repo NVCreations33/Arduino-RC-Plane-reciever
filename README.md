@@ -24,7 +24,7 @@ This project features a lightweight, 9-channel Arduino-based RC receiver, optimi
 | `EasyEDA.json`      | Original EasyEDA project files (`.json`) |
 | `/Greber-File/`     | Complete Gerber files for PCB fabrication |
 | `pcb-top-view.svg`  | 2D view of the PCB layout (top side) |
-| `PCB-design.png`    | PCB Design |
+| `layout.png`        | PCB Layout |
 | `schematic.png`     | Schematic circuit diagram |
 | `README.md`         | This file |
 | `LICENSE`           | License information (CC BY-NC-SA 4.0) |
@@ -47,9 +47,9 @@ No need to redesign or rebuild the hardware!
 
 ## 📷 Previews
 
-| PCB Top View | Schematic | PCB Design | 
-|--------------|-----------|------------|
-| ![Top View](pcb-top-view.svg) | ![Schematic](schematic.png) | ![Design](PCB-design.png) |
+| PCB Top View | PCB Layout | Schematic |
+|--------------|------------|-----------|
+| ![Top View](pcb-top-view.svg) | ![Layout](layout.png) | ![Schematic](schematic.png) |
 
 ---
 
